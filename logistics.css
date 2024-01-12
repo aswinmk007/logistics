@@ -1,0 +1,302 @@
+
+.body{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+nav{
+    width: 100%;
+    height: 110px;
+    background-color: #091242;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list-item{
+    display: inline;
+    list-style: none;
+    margin: 0px 50px;
+}
+.logo{
+    margin-left: 10rem;
+}
+.link{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
+.bg-img{
+    position: absolute;
+    width: 100%;
+    height: 670px;
+}
+.head1{
+    position: absolute;
+    color: white;
+    margin-top: 12rem;
+    margin-left: 16rem;
+    font-weight: 600;
+    font-size: 60px;
+}
+.head2{
+    position: absolute;
+    color: white;
+    margin-top: 25rem;
+    margin-left: 16rem;
+}
+.head3{
+    position: absolute;
+    color: white;
+    margin-top: 11rem;
+    margin-left: 16rem;
+}
+.btn{
+    position: absolute;
+    background-image: linear-gradient(to bottom right,  yellow,white,orange);
+    margin-top: 28rem;
+    margin-left: 16rem;
+}
+.services{
+    position: relative;
+
+    width: 100%;
+    height: 230px;
+    background-color: white;
+}
+
+.servi-content{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    margin-left: 24rem;
+    gap: 50px;
+}
+.subh1{
+    font-weight: bold;
+}
+.subh2{
+    font-size: 15px;
+    font-weight: 500;
+}
+.section1{
+    width: 100%;
+    height: 850px;
+    position: relative;
+}
+.bg-imgsection1{
+    width: 100%;
+    height: 450px;
+}
+.box{
+    position: absolute;
+    width: 1000px;
+    height: 362px;
+    border: 1px solid;
+    border-style: none;
+    background-color: white;
+    margin-top: -106px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10rem;
+}
+.icon1{
+    width: 48px;
+    height: 48px;
+}
+.box-img{
+    width: 518px;
+    height: 323px;
+}
+.box-contnt{
+    margin-top: 2rem;
+    
+}
+.subh3{
+    font-weight: bold;
+    margin-top: 20rem;
+    margin-left: 25rem;
+}
+.sub1{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: -23rem;
+
+}
+.subh4{
+    font-weight: bold;
+    margin-left: 48rem;
+    margin-top: -44px;
+}
+.subsection2{
+    position: relative;
+    width: 100%;
+    height: 240px;
+    background-color: #FFB629;
+    margin-top: 12rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: -34rem;
+  
+}
+.head4{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 34rem;
+}
+
+.box-image{
+    width: 250.17px;
+    height: 306px;
+}
+.section-img{
+    margin-top: -18rem;
+    gap: 2rem;
+}
+.btn1{
+    position: absolute;
+    margin-top: 10rem;
+    background-color: #091242;
+    color: white;
+    border-radius: 2px;
+}
+.section3{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.head5{
+    position: absolute;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 16rem;
+    margin-top: 2rem;
+    color: black;
+}
+.cus-img{
+    width: 400px;
+    height: 220px;
+
+}
+.section3-img{
+    margin-top: 5rem;
+}
+.section4{
+    position: relative;
+    width: 100%;
+    height: 350px;
+}
+.subdiv{
+    position: absolute;
+    width: 50%;
+    height: 457px;
+    border: 1px solid;
+    background-color: #091242;
+    margin-top: 4rem;
+}
+.flight{
+    position: absolute;
+    width: 586px;
+    height: 343px;
+    margin-top: 4rem;
+    margin-left: 14rem;
+}
+.head6{
+    position: absolute;
+    margin-left: 56rem;
+    margin-top: 6rem;
+}
+.fetures1{
+    position: absolute;
+    margin-left: 56rem;
+    margin-top: 14rem;
+    
+}
+.fetures2{
+    position: absolute;
+    margin-left: 68rem;
+    margin-top: 14rem;
+}
+.section5{
+    position: relative;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.head7{
+    position: absolute;
+    margin-left: -2rem;
+    margin-top: 2rem;
+}
+.ph1{
+    width: 264px;
+    height: 338px;
+}
+.person{
+    margin-top: 27rem;
+}
+.section6{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    /* background-color: #091242; */
+    margin-top: 12rem;
+ 
+}
+.logics{
+    position: absolute;
+    width: 100%;
+    height: 312px;
+}
+.logo-box{
+    position: absolute;
+    width: 100%;
+    height: 57px;
+    background-color: #273270;
+    margin-top: 19rem;
+}
+.box-logo{
+    margin-top: 8px;
+    margin-left: 12rem;
+
+}
+.footer{
+    position: relative;
+    width: 100%;
+    height: 430px;
+    background-color: #091242;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.email{
+    color: white;
+}
+.email-box{
+    width: 140px;
+    height: 34px;
+    background-color: #091242;
+    color: white;
+    border: 1px solid;
+}
+.btn4{
+    background-image: linear-gradient(to right,#FFB629,white);
+}
+.copy{
+    position: absolute;
+    margin-top: 20rem;
+    color: white;
+}
